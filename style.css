@@ -15,11 +15,11 @@
     --button-dark-hover: #242729;
 
     /* Gradient colors */
-    --grad-purple: #6772E5;
-    --grad-pink: #E84C65;
-    --grad-orange: #FF8A56;
-    --grad-lightblue: #4DD1E6;
-    --grad-darkpurple-blend: #8965e3; /* For smoother transition */
+    --grad-purple: #09358f;
+    --grad-pink: #83D1D8;
+    --grad-orange: #81fabbf3;
+    --grad-lightblue: #6DE3B9;
+    --grad-darkpurple-blend: #20C997; /* For smoother transition */
 }
 
 *, *::before, *::after {
@@ -73,7 +73,7 @@ body {
 .main-nav li { margin-left: 30px; }
 .main-nav a, .secondary-nav a {
     text-decoration: none;
-    color: rgba(255, 255, 255, 0.9);
+    color: rgba(0, 0, 0, 0.9);
     font-weight: 600;
     font-size: 15px;
     transition: color 0.2s ease;
